@@ -1,6 +1,6 @@
 dropwizard-helloworld
 =====================
-Parin
+Parin Modi
 $ mvn clean package
 
 $ bin/run.sh 
